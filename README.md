@@ -32,7 +32,7 @@ Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b
 
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
-<b>[Get the full Zoopla dataset](https://brightdata.com/products/datasets/Zoopla)</b>.
+<b>[Get the full Zoopla dataset](https://brightdata.com/products/datasets/zoopla)</b>.
 
 <h2>What are the Zoopla datasets use cases?</h2>
 
